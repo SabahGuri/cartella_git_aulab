@@ -1,0 +1,1 @@
+console.log(`il tuo nome è:${name}\nil tuo cognome è:${surname}\nla tua età è:${age}`)
