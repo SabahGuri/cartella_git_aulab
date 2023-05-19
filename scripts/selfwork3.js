@@ -113,4 +113,29 @@
 
 // esercizio 5
 
+//let numeroTiri = parseInt(prompt("Inserisci il numero di tiri per ciascun giocatore:"));
 
+
+
+// const n=5;
+// let resutPlayer1=0;
+// let resutPlayer2=0;
+// for(let i=0;i<n;i++){
+//    let rolls=Math.floor(Math.random()*6)+1;
+//    let rolls2=Math.floor(Math.random()*6)+1;
+  
+//    resutPlayer1+=rolls
+//    resutPlayer2+=rolls2
+//    console.log(`Tiro`,i,`giocatore 1 ha fatto:`,rolls)
+//    console.log(`Tiro: ${i} giocatore 2 ha fatto: ${rolls2}`)
+
+// }
+// console.log(`Il giocatore 1 ha totalizzato:`,resutPlayer1,`\n il giocatore 2 ha totalizzato`,resutPlayer2)
+
+// if(resutPlayer1>resutPlayer2){
+//     console.log(`il giocatore 1 ha vinto con il punteggio di ${resutPlayer1}`)
+// }else if(resutPlayer1<resutPlayer2){
+//     console.log(`il giocatore 2 ha vinto con il punteggio di ${resutPlayer2}`)
+// }else{
+//     console.log(`il due giocatori hanno pareggiato con i risultati ${resutPlayer1} a ${resutPlayer2}`)
+// }
